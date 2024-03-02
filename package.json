@@ -1,7 +1,12 @@
 {
-  "name": "next_three",
+  "name": "3D-landing-page",
   "version": "0.1.0",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doggg5511/3D-landing-page.git"
+  },
+  "author": "doggg5511",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
